@@ -83,6 +83,139 @@ No README do seu repositório, inclua:
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
+>
+> ```
+> PRD – Aplicativo de Finanças Pessoais Conversacional (com Design Universal)
+
+1. Visão Geral
+Criar um aplicativo de finanças pessoais baseado em conversas naturais, acessível para o maior número possível de pessoas. O app deve seguir princípios de design universal, garantindo que diferentes perfis – iniciantes, pessoas com limitações visuais, motoras ou cognitivas – consigam usar o produto sem barreiras.
+
+2. Problema
+Apps tradicionais exigem preenchimento manual e navegação complexa. Usuários iniciantes se sentem intimidados. Pessoas com dificuldades de leitura, visão ou atenção encontram barreiras. O desafio é criar uma experiência fluida, inclusiva e acolhedora, centrada em conversa.
+
+3. Público-Alvo
+- Iniciantes em organização financeira.
+- Pessoas que preferem conversar em vez de preencher formulários.
+- Usuários que valorizam simplicidade e acessibilidade.
+- Pessoas que se beneficiam de interfaces inclusivas (design universal).
+
+4. Proposta de Valor
+Um assistente financeiro conversacional que registra gastos, organiza informações e oferece recomendações personalizadas, com linguagem simples, acessível e adaptável ao estilo do usuário.
+
+5. Funcionalidades-Chave do MVP
+
+5.1. Registro de Gastos via Chat
+- O usuário descreve o gasto em linguagem natural.
+- O sistema extrai valor, categoria e data automaticamente.
+Exemplo: 
+Usuário: "Gastei 22 reais no Uber ontem."
+App: "Registrei como Transporte. Deseja alterar a categoria?"
+
+5.2. Classificação Automática
+- Sugestão de categorias com base no texto.
+- Aprendizado contínuo com correções.
+Exemplo:
+App: "Parece um gasto com Alimentação. Confirmar?"
+
+5.3. Metas Financeiras Simples
+- Criar metas básicas.
+- Acompanhar progresso via mensagens curtas.
+Exemplo:
+Usuário: "Quero gastar no máximo 200 reais com delivery este mês."
+App: "Meta criada. Avisarei quando estiver perto do limite."
+
+5.4. Agente Financeiro (Dicas e Alertas)
+- Sugestões de economia baseadas no comportamento.
+- Alertas quando metas estão perto de estourar.
+Exemplo:
+App: "Você gastou 70% da sua meta de transporte esta semana."
+
+5.5. Relatórios Personalizados
+- Resumo semanal e mensal.
+- Visualização simples e acessível.
+Exemplo:
+App: "Seu maior gasto da semana foi Alimentação (R$ 180)."
+
+6. Fluxo Principal do Usuário
+1. Onboarding rápido e acessível (linguagem simples, opção de áudio, contraste adequado).
+2. Primeira conversa.
+3. Registro contínuo via chat.
+4. Acompanhamento automático com dicas e relatórios.
+5. Ajustes e personalização.
+
+7. Telas do MVP
+
+7.1. Tela de Chat
+- Campo de mensagem grande e acessível.
+- Histórico claro, com contraste adequado.
+- Botões de atalho: "Registrar gasto", "Ver metas", "Relatório rápido".
+Exemplo de uso:
+Usuário abre o app e vê: "Como posso ajudar hoje?"
+Ele digita: "Paguei 50 reais no mercado."
+
+7.2. Tela de Relatórios
+- Gráficos simples com opção de texto alternativo.
+- Resumo por categoria.
+Exemplo:
+"Você gastou R$ 1.200 este mês. Maiores gastos: Alimentação (R$ 450), Transporte (R$ 300)."
+
+7.3. Tela de Metas
+- Criar, editar e visualizar metas.
+- Indicadores visuais simples (barras, porcentagens).
+Exemplo:
+Meta: "Lazer – limite R$ 200"
+Progresso: "R$ 120 (60%)"
+
+7.4. Tela de Configurações
+- Preferências de notificação.
+- Ajustes de categorias.
+- Opções de acessibilidade (tamanho da fonte, contraste, áudio).
+Exemplo:
+Usuário ativa "Modo de leitura simplificada".
+
+8. Requisitos Técnicos
+- NLP para extrair dados de gastos.
+- Banco de dados simples para transações e metas.
+- Motor de regras para dicas e alertas.
+- Backend leve para classificação automática.
+- Interface de chat responsiva e acessível.
+- Suporte a leitores de tela, contraste alto e navegação simplificada.
+
+9. Critérios de Sucesso
+- Registro de gastos sem fricção.
+- 80% das transações classificadas automaticamente.
+- Relatórios semanais úteis.
+- Engajamento de 3 dias na primeira semana.
+- Usuários com diferentes perfis conseguem usar o app sem ajuda.
+
+10. Validação Inicial
+
+10.1. Testes com Usuários
+- 5 a 10 usuários iniciantes.
+- Incluir diversidade de perfis (design universal).
+
+10.2. Métricas
+- Número de mensagens enviadas.
+- Taxa de correção de categorias.
+- Feedback sobre acessibilidade.
+
+10.3. Hipóteses
+- Conversa é mais fácil que formulário.
+- Dicas aumentam engajamento.
+- Relatórios simples bastam.
+- Design universal aumenta retenção.
+
+Síntese dos Conceitos
+
+PRD (Product Requirements Document)
+Documento que define o que será construído e por que isso importa. Serve como mapa para orientar o desenvolvimento, especialmente em MVPs.
+
+Vibe Coding
+Abordagem onde você descreve a intenção, clima e comportamento desejado do produto, e a IA gera código, telas e fluxos coerentes com essa “vibe”.
+
+Design Universal
+Princípio de criar produtos que funcionem para o maior número possível de pessoas, independentemente de idade, experiência, limitações físicas, cognitivas ou contexto. Inclui linguagem simples, acessibilidade visual e textual, navegação intuitiva, personalização e suporte a leitores de tela.
+```
 
 ## 💬 Conclusão
 
