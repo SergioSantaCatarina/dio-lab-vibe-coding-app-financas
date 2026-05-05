@@ -84,8 +84,8 @@ No README do seu repositório, inclua:
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
 >
-> ```
-> PRD – Aplicativo de Finanças Pessoais Conversacional (com Design Universal)
+```txt
+PRD – Aplicativo de Finanças Pessoais Conversacional (com Design Universal)
 
 1. Visão Geral
 Criar um aplicativo de finanças pessoais baseado em conversas naturais, acessível para o maior número possível de pessoas. O app deve seguir princípios de design universal, garantindo que diferentes perfis – iniciantes, pessoas com limitações visuais, motoras ou cognitivas – consigam usar o produto sem barreiras.
@@ -215,8 +215,9 @@ Abordagem onde você descreve a intenção, clima e comportamento desejado do pr
 
 Design Universal
 Princípio de criar produtos que funcionem para o maior número possível de pessoas, independentemente de idade, experiência, limitações físicas, cognitivas ou contexto. Inclui linguagem simples, acessibilidade visual e textual, navegação intuitiva, personalização e suporte a leitores de tela.
-```
+
 
 ## 💬 Conclusão
 
 Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+```
